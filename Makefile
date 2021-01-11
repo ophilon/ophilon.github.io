@@ -9,13 +9,13 @@ errs := $(patsubst %.html,%.err,$(html))
 inc  := $(wildcard src/*.inc)
 inc  += $(inc) www/1_philon.css
 rest := $(wildcard *-table* *.css *.js text2* *-footer Makefile stdlib.m4)
-addr := vh78.hoster.by 
-user := philonby
+addr := github.com 
+user := ophilon@github.com
 define scp
     scp $@ $(addr):
 endef
-define ftp
-lftp -e 'cd tmp;rm $@;put $@;bye' -u $(user) $(addr)
+define upload
+git push
 endef
 
 help :
