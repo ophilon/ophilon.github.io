@@ -8,6 +8,7 @@ E-mail: rms@fsf.org
 Date: 2001-11-01
 Style-file: gulag.css
 Script-file: gulag.js
+Script-file: gootics.js
 Footer: g-footer
 Ext-table: x-table.m4
 

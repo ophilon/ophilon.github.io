@@ -9,6 +9,7 @@ Date: апрель 2001
 Version: 1.1
 Style-file: gulag.css
 Script-file: gulag.js
+Script-file: gootics.js
 Footer: t-footer
 Ext-table: x-table.m4
 

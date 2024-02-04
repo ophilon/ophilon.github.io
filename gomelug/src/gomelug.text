@@ -9,6 +9,7 @@ Date: 2002-12-22
 Version: 1.1
 Style-file: gulag.css
 Script-file: gulag.js
+Script-file: gootics.js
 
 <table border=0 cellpadding=0 cellspacing=0 summary="menu + text block">
 <tr><td colspan=2>_link(articles/articles.html,

@@ -6,3 +6,4 @@ comm = new Image();
 comm.src="../img/forum.gif";
 about = new Image();
 about.src="../img/about.gif";
+
