@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ophil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ophil.ru
+  * I am ophil (https://keybase.io/ophil) on keybase.
+  * I have a public key ASCCUaITbkTA4e_nJwv76NPdESGwGltdnYt9xbnoZAgcJwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208251a2136e44c0e1efe7270bfbe8d3dd1121b01a5b5d9d8b7dc5b9e864081c270a",
+      "host": "keybase.io",
+      "kid": "01208251a2136e44c0e1efe7270bfbe8d3dd1121b01a5b5d9d8b7dc5b9e864081c270a",
+      "uid": "a7ed0db9b22a23c03130504e5869c719",
+      "username": "ophil"
+    },
+    "merkle_root": {
+      "ctime": 1757327998,
+      "hash": "34eb2bc1578d74bd4e7c4623130643178a68b6f0af1d3f87be05c61db40845a317e2ae6d8b88748567b15f293a3691e03d19dd6105b8bbdee3da93144bd0b348",
+      "hash_meta": "696254fd6089a692439f3240852c945cbe1d1a80589c246f63f63097e6d64714",
+      "seqno": 27075150
+    },
+    "service": {
+      "entropy": "47sotGVSxGKJP42dsF5FuZZ8",
+      "hostname": "ophil.ru",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1757328088,
+  "expire_in": 504576000,
+  "prev": "3aed6226d25239e884c597baf32d59972bc0cf28d2e504110281d66afd759093",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgglGiE25EwOHv5ycL++jT3REhsBpbXZ2LfcW56GQIHCcKp3BheWxvYWTESpcCBcQgOu1iJtJSOeiExZe68y1ZlyvAzyjS5QQRAoHWav11kJPEIIoucj+49u4KWE9ElmNaSYN/39jP5Op1xALQMtnbq+rfAgHCo3NpZ8RAnVUrpAgGBqNQ1puxYYSkxD82q1WtBTijQN2Q6xBhAhRIdyCy69aD8VMY3KGkSqUJSSdhPSlFGH5gp4xjoIpgBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC7l+IU7IpohFgOKjXpnAI+egCNb3J51fySdDYybqVh4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ophil
+
+==================================================================
